@@ -16,8 +16,6 @@ Depois de descobrir minha verdadeira paixão, transferi meu curso de Engenharia 
 
 
 
-<img align="left" alt="Git" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-
 
 [LinkedIn]: https://www.linkedin.com/in/matheus-nogueira-camargo-366589120/
 [Gmail]: mailto:mthnogueira0027@gmail.com
