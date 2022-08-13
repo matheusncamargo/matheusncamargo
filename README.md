@@ -1,7 +1,7 @@
 ### Hello, World! 👋
 Depois de descobrir minha verdadeira paixão, transferi meu curso de Engenharia para Ciência de Computação na UFSCar. Atualmente redescobrindo caminhos e interesses no gigantesco mundo da programação.
 
-- 🌱 No momento estudando desenvolvimento web
+- :books: No momento estudando desenvolvimento web
 - 🔍 Estou fazendo projetos para treinar minhas habilidades em HTML, CSS e JavaScript
 - 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/matheus-nogueira-camargo-366589120/)
 <hr />
