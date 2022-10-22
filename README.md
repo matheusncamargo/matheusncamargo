@@ -9,13 +9,8 @@ Depois de descobrir minha verdadeira paixão, transferi meu curso de Engenharia 
 #### Technologies
 <img align="left" alt="HTML5" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
 <img align="left" alt="CSS3" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-<img align="left" alt="Bootstrap" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
 <img align="left" alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
 <img align="left" alt="Java" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-
-
-
-
 
 [LinkedIn]: https://www.linkedin.com/in/matheus-nogueira-camargo-366589120/
 [Gmail]: mailto:mthnogueira0027@gmail.com
